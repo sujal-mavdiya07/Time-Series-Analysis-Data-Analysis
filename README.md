@@ -50,5 +50,7 @@ The repository includes multiple graphs that depict:
   - `statsmodels` for time series modeling and statistical tests
   - `scikit-learn` for regression modeling
 
-## 📌 Project Structure
+## 📌 Google Colab Link
+ https://colab.research.google.com/drive/1iX2NbsVlBbkg7DyELiU
+ B8NhygZq3raCR?usp=sharing#scrollTo=SOW6xXupplxS.
 
