@@ -2,7 +2,7 @@
 
 # 🌡️ Time Series Analysis of Global Temperature Data
 
-This is a solo project focused on analyzing the Global Surface Temperature Time Series using historical data provided by NASA. The goal is to explore patterns, trends, and seasonality in the data, and apply statistical methods to gain insights into how global temperatures have evolved over time.
+This project focused on analyzing the Global Surface Temperature Time Series using historical data provided by NASA. The goal is to explore patterns, trends, and seasonality in the data, and apply statistical methods to gain insights into how global temperatures have evolved over time.
 
 ## 📊 Project Overview
 
