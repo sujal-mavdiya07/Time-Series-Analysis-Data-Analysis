@@ -51,6 +51,5 @@ The repository includes multiple graphs that depict:
   - `scikit-learn` for regression modeling
 
 ## 📌 Google Colab Link
- https://colab.research.google.com/drive/1iX2NbsVlBbkg7DyELiU
- B8NhygZq3raCR?usp=sharing#scrollTo=SOW6xXupplxS.
+ https://colab.research.google.com/drive/1iX2NbsVlBbkg7DyELiUB8NhygZq3raCR?usp=sharing#scrollTo=SOW6xXupplxS.
 
